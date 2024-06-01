@@ -25,7 +25,7 @@ def get_answer(question: str, database: dict) -> str | None:
     for q in database["questions"]:
         if q["question"] == question:
             return q["answer"]
-        
+
 def ChatBot():
     database: dict = load_database('database.json')
     while True:

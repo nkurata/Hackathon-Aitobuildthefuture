@@ -1,0 +1,12 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "What is the weather like in Barcelona today?",
+      "answer": "Today in Barcelona it is very sunny at the moment."
+    }
+  ]
+}
